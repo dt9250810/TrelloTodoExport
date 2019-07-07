@@ -10,6 +10,8 @@ TrelloTodoExport 是使用python撰寫的一個小程式，可以幫助我們更
 
 1. 先將需要整理的看板匯出 .json 並置放於與 TrelloTodoExport 相同目錄，檔案命名為：trello.json
 2. 執行 TrelloTodoExport.py ， test_trello.csv 即會產生於此目錄下
-3. 若需使用 LINE Notifier，需搭配 IFTTT 服務並在程式中的 LINE_KEY 填入相關 Key 字串(詳 https://notify-bot.line.me/zh_TW/、https://ifttt.com/)。
+3. 若需使用 LINE Notifier，需搭配 IFTTT 服務並在程式中的 LINE_KEY 填入相關 Key 字串(詳可參見
+https://notify-bot.line.me/zh_TW/
+、https://ifttt.com/)。
 
 
